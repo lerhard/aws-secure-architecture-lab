@@ -25,7 +25,7 @@ and real application integration.
 - `java/`  
   Spring Boot application used for the same experiments
 
-- `docs/decisions/`  
+- `docs/adr/`  
   Architectural Decision Records (ADRs)
 
 ## Architectural Decisions
